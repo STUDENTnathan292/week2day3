@@ -1,2 +1,19 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!doctype html>
+<html>
+	<head>
+		<title>Facts About Me!</title>
+		<meta name="description" content="facts">
+		<meta name="keywords" content="mtech facts about me">
+	</head>	
+	<body background="https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg">
+		
+	<span style="color: white;"><h1>About Me.</h1></span>
+			<a href="facts.HTML">Home</a> <a href="Contactme.HTML">contact</a> <a href="aboutme.HTML">about me.</a> <br/>
+			<h3>why I chose to program</h3>
+			<ul>
+				<li>I want to be a game designer</li>
+				<li>I grew up learning game disign.</li>
+				<li>I Like computers.</li>
+			</ul>
+	</body>
+</html>
